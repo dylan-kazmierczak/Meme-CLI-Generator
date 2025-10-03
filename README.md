@@ -15,7 +15,7 @@ A simple Node.js script that takes user input and spits out a random meme using 
 
 Clone the repo:  
 ```bash
-git clone https://github.com/yourusername/Meme-CLI-Generator.git
+git clone https://github.com/dylan-kazmierczak/Meme-CLI-Generator.git
 cd Meme-CLI-Generator
 ```
 
